@@ -121,6 +121,7 @@ public class Menu {
                     bufferedReader.readLine(); 
                 } else {
                     bufferedWriter.write(linea + "\n");
+                    
                 }
             } else {
                 bufferedWriter.write(linea + "\n");
