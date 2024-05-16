@@ -4,5 +4,9 @@ public class Manejo {
         Menu menu = new Menu();
         menu.menu();
         System.out.println("Hola");
+        System.out.println("Hola");
+        System.out.println("Hola");
+        System.out.println("ksksks");
+        
     }
 }
