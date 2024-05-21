@@ -17,7 +17,6 @@ public class Menu {
             System.out.println("1. Crear archivo");
             System.out.println("2. Modificar");
             System.out.println("3. Borrar");
-            System.out.println("4. Leer archivo");
             System.out.println("0. Salir");
             op = scanner.nextInt();
             switch (op) {
@@ -30,7 +29,7 @@ public class Menu {
                 case 3:
                     eliminarArchivo();
                     break;
-                    
+
                 case 0:
                     System.out.println("Saliendo del programa...");
                     break;
